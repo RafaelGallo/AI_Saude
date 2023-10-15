@@ -38,9 +38,7 @@ Redes Neurais Convolucionais (CNNs, sigla em inglês para Convolutional Neural N
 
 As redes neurais convolucionais (CNNs) são particularmente eficazes na análise de imagens e são capazes de identificar padrões complexos que são essenciais para a detecção de anomalias nas mamografias. As CNNs, treinadas em vastos conjuntos de dados, podem distinguir entre tecido mamário normal e potenciais tumores, fornecendo uma análise precisa e automatizada. O algoritmo é constantemente refinado à medida que novos dados são incorporados, garantindo uma melhoria contínua na precisão.
 
-## Redes Neurais Convolucionais
-
-**DenseNet121**
+**Arquitetura DenseNet121**
 
 ![img1](https://github.com/RafaelGallo/Coursera_IA_medicina/assets/44452165/09a36fcc-68c2-4157-8aaf-d5bd3fead1eb)
 
