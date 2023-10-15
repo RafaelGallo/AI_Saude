@@ -15,7 +15,6 @@
 [![](https://img.shields.io/badge/Cuda-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/GPU-green.svg)](https://scikit-learn.org/stable/)
 
-
 Esse projeto inteligência artificial aplicando machine learning, análise de dados, depp learning para intentificação câncer de mama este projeto dedicado ao mês Outubro rosa. 
 
 ## Introdução
@@ -34,7 +33,7 @@ A metodologia adotada neste projeto é alicerçada em uma abordagem multifacetad
 
 Redes Neurais Convolucionais (CNNs, sigla em inglês para Convolutional Neural Networks) são um tipo especializado de rede neural artificial projetado para processar dados que têm uma estrutura de grade, como imagens. Elas são amplamente utilizadas em tarefas de visão computacional, como classificação de imagens, detecção de objetos, segmentação de imagens e muitas outras aplicações relacionadas a processamento de imagens e vídeos. As CNNs são altamente eficazes na extração de características relevantes de imagens e na redução da dimensionalidade dos dados, tornando-as ideais para tarefas de reconhecimento de padrões em imagens. Elas incluem camadas convolucionais e camadas de pooling que operam em dados de entrada em grade, além de camadas completamente conectadas para a classificação final.
 
-![img_1](https://www.google.com/url?sa=i&url=http%3A%2F%2Fcidamo.com.br%2F2020-06-30-reconhecimento-de-caracteres%2F&psig=AOvVaw33r4buon08NCx35phoLGeO&ust=1697487610561000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjl8oDw-IEDFQAAAAAdAAAAABAE)
+![img](https://github.com/RafaelGallo/AI_Saude_out/blob/main/imagem/6093.jpg)
 
 As redes neurais convolucionais (CNNs) são particularmente eficazes na análise de imagens e são capazes de identificar padrões complexos que são essenciais para a detecção de anomalias nas mamografias. As CNNs, treinadas em vastos conjuntos de dados, podem distinguir entre tecido mamário normal e potenciais tumores, fornecendo uma análise precisa e automatizada. O algoritmo é constantemente refinado à medida que novos dados são incorporados, garantindo uma melhoria contínua na precisão.
 
