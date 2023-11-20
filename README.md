@@ -73,7 +73,7 @@ A metodologia adotada neste projeto é alicerçada em uma abordagem multifacetad
 O mês de Outubro Rosa é um período de destaque em nossa iniciativa. Durante este mês, intensificamos nossos esforços de conscientização e promoção do autocuidado e da detecção precoce do câncer de mama. Disponibilizamos acesso gratuito a nossa plataforma de análise de mamografias e encorajamos mulheres de todas as idades a fazerem exames regulares.
 Nossa tecnologia não apenas auxilia na detecção, mas também na prevenção, uma vez que fornecemos informações e recursos valiosos sobre como manter a saúde mamária e reduzir os riscos. Estamos comprometidos em apoiar a luta contra o câncer de mama, fornecendo uma ferramenta eficaz e acessível para a detecção precoce, uma das principais armas na batalha contra essa doença. Em resumo, nosso projeto de inteligência artificial, que incorpora machine learning e deep learning, assume um papel crucial na identificação e conscientização do câncer de mama, especialmente durante o mês de Outubro Rosa. Acreditamos que, com o avanço da tecnologia e a conscientização pública, podemos fazer progressos significativos na detecção precoce e, finalmente, na erradicação dessa doença devastadora.
 
-# Insights importante projeto 
+# Projeto 1 - Insights importante projeto (Machine Leraning) 
 
 Este relato abordará minuciosamente os insights mais relevantes extraídos da análise de dados. Em seguida, explorarei em detalhes a etapa crucial de engenharia de features e a aplicação do aprendizado de máquina.
 
@@ -103,8 +103,6 @@ Neste gráfico, utilizamos um gráfico de boxplot como uma ferramenta valiosa pa
 Nesse gráfico, podemos claramente identificar a presença de outliers, que são valores atípicos que se destacam do padrão geral dos dados. A detecção e o tratamento de outliers são etapas essenciais na análise de dados, pois esses valores atípicos têm o potencial de distorcer as análises estatísticas e comprometer a precisão dos modelos de machine learning. Além disso, ao utilizar subplots juntos com essa análise, podemos visualizar a extensão dos problemas de outliers que afetam diversas partes do conjunto de dados. Os subplots permitem uma abordagem mais detalhada, possibilitando a identificação de valores atípicos em diferentes segmentos dos dados. Identificar e compreender a natureza desses valores atípicos é crucial para adotar estratégias adequadas de tratamento, como remoção, transformação ou imputação, a fim de garantir que o modelo de machine learning seja robusto e capaz de fazer previsões precisas. A gestão eficaz dos outliers não apenas aprimora a qualidade dos dados, mas também contribui para resultados mais confiáveis e representativos em análises estatísticas e modelagem. Portanto, a identificação e o tratamento de outliers são aspectos críticos em qualquer projeto de ciência de dados ou análise estatística, e o uso de subplots pode aprimorar a capacidade de identificar e entender a distribuição desses valores atípicos em todo o conjunto de dados.
 
 ![image](https://github.com/RafaelGallo/AI_Saude_out/assets/44452165/a35cea7a-52cb-40e8-8c0e-eff168699432)
-
-**Pré-processamento**
 
 # Pré-processamento
 O Label Encoder é uma técnica de pré-processamento de dados essencial, especialmente quando se lida com a normalização de variáveis categóricas em projetos de machine learning. Variáveis categóricas representam categorias ou grupos, como “maçã”, “laranja” ou “banana”, em contraste com variáveis numéricas que expressam valores quantitativos. Dado que a maioria dos modelos de machine learning requer entradas numéricas, é crucial converter variáveis categóricas em formatos numéricos compreensíveis. O LabelEncoder é uma das abordagens mais comuns para atingir esse objetivo. O LabelEncoder realiza essa tarefa atribuindo a cada categoria em uma variável categórica um valor numérico exclusivo. Por exemplo, se você tem uma coluna chamada “Fruta” com valores como “Maçã”, “Laranja” e “Banana”, o LabelEncoder atribuirá valores numéricos, como 0, 1 e 2, respectivamente, a essas categorias. Essa codificação numérica permite que os modelos de machine learning compreendam e processem essas variáveis categóricas de maneira eficaz. No entanto, é importante notar que, ao usar o LabelEncoder, você deve estar ciente de que a atribuição de valores numéricos a categorias pode criar uma suposição de ordem que pode não ser apropriada para todos os conjuntos de dados. Portanto, em alguns casos, é necessário considerar técnicas adicionais, como a codificação one-hot, para evitar interpretações equivocadas e garantir uma modelagem precisa.
@@ -150,6 +148,10 @@ A matriz de confusão é uma ferramenta fundamental na avaliação do desempenho
 Aqui, apresentamos o resultado da matriz de confusão na forma de um plot. A matriz de confusão é uma ferramenta crucial na avaliação de modelos de classificação, e o seu plot fornece uma representação visual dessa matriz, tornando a interpretação dos resultados mais acessível.
 
 ![image](https://github.com/RafaelGallo/AI_Saude_out/assets/44452165/28667e2b-981a-4178-86cd-6380af8aef93)
+
+# Projeto 2 - Insights importante projeto (Deep learning) 
+
+
 
 # Conclusão
 
